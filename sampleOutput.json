@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "'Surprise' in Canada as NYC buses migrants to border",
+      "description": "New York City's mayor confirms the city is giving migrants free bus tickets to the Canadian border.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64489465",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15CA6/production/_128545298_migrantsre.jpg",
+      "publishedAt": "2023-02-07T03:07:17.8769731Z",
+      "content": "An immigration official in the Canadian province of Quebec has said it is \"surprising\" to learn that New York City is sending migrants to the country's border.\r\nNew York City mayor Eric Adams told Fo… [+2266 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Anthony Lowe: New video released in police killing of double amputee",
+      "description": "Police also released audio of an emergency call by a man who was allegedly stabbed by Anthony Lowe.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64547392",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F964/production/_128544836_gettyimages-1246751819.jpg",
+      "publishedAt": "2023-02-07T02:22:18.7831426Z",
+      "content": "Authorities have released new video and audio captured moments before the death of a double amputee, who was shot by police last month near Los Angeles.\r\nAnthony Lowe, 36, who was black, was fatally … [+3214 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Register of Overseas Entities: What three luxury homes reveal about who owns UK property",
+      "description": "Despite new transparency laws, the owners of 50,000 British premises remain hidden from public view.",
+      "url": "http://www.bbc.co.uk/news/uk-64536926",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CA84/production/_128544815_index_promo-2x-nc.png",
+      "publishedAt": "2023-02-07T02:07:31.6592022Z",
+      "content": "Owners of around 50,000 UK properties held by foreign companies remain hidden from public view, despite new transparency laws.\r\nThe Register of Overseas Entities, launched in August 2022, was meant t… [+9391 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ohio officials plan 'controlled release' of chemicals from derailed train",
+      "description": "Officials are planning a \"controlled release\" of chemicals to reduce the risk of an explosion.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64540530",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB65/production/_128537974_traincrash.jpg",
+      "publishedAt": "2023-02-07T02:07:24.4865566Z",
+      "content": "Media caption, Watch: New footage of derailed train in Ohio\r\nPeople living near the site of a derailed train in north-eastern Ohio have been ordered to evacuate as officials prepare a \"controlled rel… [+2478 chars]"
+    }
+    
+  ]
+}
